@@ -3,6 +3,8 @@ name = "refgraph"
 version = "0.1.0"
 description = "Build citation graphs (references + citations, 1-2 levels) from a seed paper via Semantic Scholar and OpenAlex."
 readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 requires-python = ">=3.11"
 dependencies = [
     "httpx>=0.27",
